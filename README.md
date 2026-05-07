@@ -1,7 +1,7 @@
 # Bisection Value Iteration Replication Study Artifacts
 Executable Binary for the Replication Study of Bisection Value Iteration conducted by me. 
 
-To run this executable, run the command below as per your requirement.
+To run this executable in linux, run the command below as per your requirement.
 
 ```bash
 ./modest check filename.jani --alg IntervalIteration 
